@@ -1,0 +1,15 @@
+{
+  "name": "ai-virtual-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A virtual assistant that understands natural language voice commands for weather, apps, websites, and more.",
+  "scripts": {
+    "start": "python VA.py"
+  },
+  "keywords": [
+    "ai",
+    "virtual-assistant",
+    "python"
+  ],
+  "license": "UNLICENSED"
+}
